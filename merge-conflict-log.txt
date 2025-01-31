@@ -1,0 +1,86 @@
+commit d95ce305ee6a25eb48af37463a95ac6b93bb6c23
+Merge: 5813150 30b0213
+Author: iseeyou164 <calvinchau70m1@gmail.com>
+Date:   Fri Jan 31 14:34:56 2025 -0800
+
+    merge teammate-1 to main
+
+commit 30b0213e296adc68ed4f41b9bfa7d9514cf9d54c
+Author: iseeyou164 <calvinchau70m1@gmail.com>
+Date:   Fri Jan 31 14:34:43 2025 -0800
+
+    edit index.html for teammate-1
+
+commit 5813150de17c953486931907225b60cd1c810c60
+Merge: f434d01 c03c580
+Author: iseeyou164 <calvinchau70m1@gmail.com>
+Date:   Fri Jan 31 14:24:52 2025 -0800
+
+    merge teammate-1 to main
+
+commit c03c580cf398f537d39bb749a7b4cb9295d9a7c2
+Author: iseeyou164 <calvinchau70m1@gmail.com>
+Date:   Fri Jan 31 13:32:12 2025 -0800
+
+    edit index.html for teammate-1
+
+commit f434d01161d528eb44f7a4b00f0559306847ff2c
+Author: iseeyou164 <calvinchau70m1@gmail.com>
+Date:   Fri Jan 31 12:27:37 2025 -0800
+
+    revert index.html before merge (mistake oops)
+
+commit 3b2637d5f7538308836fdb0115a8d6c7c4503c26
+Author: iseeyou164 <calvinchau70m1@gmail.com>
+Date:   Fri Jan 31 11:45:50 2025 -0800
+
+    Commit index.html changes from teammate-1
+
+commit 3ca9feb13dfac2f106e34cffe3e79c642af27ebf
+Author: lailavelas <lailavelasquez16@gmail.com>
+Date:   Fri Jan 31 11:27:29 2025 -0800
+
+    Added git log and repo location files
+
+commit 4679032c7a412be2507b2e55fb306b8c3538ae85
+Author: lailavelas <lailavelasquez16@gmail.com>
+Date:   Fri Jan 31 11:18:43 2025 -0800
+
+    Resolve merge conflict in index.html
+
+commit 5c09e7da66f57de5c95fc6db0c96c91df94debf3
+Merge: 523e75e b190ba4
+Author: lailavelas <lailavelasquez16@gmail.com>
+Date:   Fri Jan 31 11:16:49 2025 -0800
+
+    Resolve merge conflict in index.html
+
+commit b190ba435446804e791ec4e916cb3204a5be78ba
+Author: lailavelas <lailavelasquez16@gmail.com>
+Date:   Fri Jan 31 11:12:50 2025 -0800
+
+    Added favorite game to index.html
+
+commit 523e75e7e92a4eb451638ac025256f91fcffdecd
+Author: lailavelas <lailavelasquez16@gmail.com>
+Date:   Fri Jan 31 11:00:30 2025 -0800
+
+    Added favorite food to index.html
+
+commit 02933f92f09d92c0200b1deee05ea6de45b71a68
+Author: lailavelas <lailavelasquez16@gmail.com>
+Date:   Fri Jan 31 10:56:18 2025 -0800
+
+    Added README.md with project description
+
+commit 6e970a70d55c26a1748d42f6d4f118925b36116f
+Author: lailavelas <lailavelasquez16@gmail.com>
+Date:   Fri Jan 31 10:52:55 2025 -0800
+
+    Added README.md with project description
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
