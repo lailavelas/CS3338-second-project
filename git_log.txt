@@ -1,0 +1,54 @@
+commit 4679032c7a412be2507b2e55fb306b8c3538ae85
+Author: lailavelas <lailavelasquez16@gmail.com>
+Date:   Fri Jan 31 11:18:43 2025 -0800
+
+    Resolve merge conflict in index.html
+
+commit 5c09e7da66f57de5c95fc6db0c96c91df94debf3
+Merge: 523e75e b190ba4
+Author: lailavelas <lailavelasquez16@gmail.com>
+Date:   Fri Jan 31 11:16:49 2025 -0800
+
+    Resolve merge conflict in index.html
+
+commit b190ba435446804e791ec4e916cb3204a5be78ba
+Author: lailavelas <lailavelasquez16@gmail.com>
+Date:   Fri Jan 31 11:12:50 2025 -0800
+
+    Added favorite game to index.html
+
+commit 523e75e7e92a4eb451638ac025256f91fcffdecd
+Author: lailavelas <lailavelasquez16@gmail.com>
+Date:   Fri Jan 31 11:00:30 2025 -0800
+
+    Added favorite food to index.html
+
+commit 02933f92f09d92c0200b1deee05ea6de45b71a68
+Author: lailavelas <lailavelasquez16@gmail.com>
+Date:   Fri Jan 31 10:56:18 2025 -0800
+
+    Added README.md with project description
+
+commit 6e970a70d55c26a1748d42f6d4f118925b36116f
+Author: lailavelas <lailavelasquez16@gmail.com>
+Date:   Fri Jan 31 10:52:55 2025 -0800
+
+    Added README.md with project description
+
+commit 3305a12de9ea2ebe4b309e15b0e12afde289cb22
+Author: lailavelas <lailavelasquez16@gmail.com>
+Date:   Fri Jan 31 10:47:01 2025 -0800
+
+    Added README.md with project description
+
+commit 93d80fb7ff229c3eb8b6b576b37f6d8fe3e4c39b
+Author: lailavelas <lailavelasquez16@gmail.com>
+Date:   Fri Jan 31 10:33:26 2025 -0800
+
+    Filled in blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
